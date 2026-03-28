@@ -1,6 +1,6 @@
-## 🐶 Bark Agent – AI-Powered Lead Processing System
+# 🐶 Bark Agent – AI-Powered Lead Processing System
 
-# An automated AI agent that logs into Bark, scrapes leads, processes them using an AI decision engine, and outputs structured insights for further action.
+## An automated AI agent that logs into Bark, scrapes leads, processes them using an AI decision engine, and outputs structured insights for further action.
 
 ## 🚀 Features
 🔐 Automated login to Bark platform
@@ -19,7 +19,7 @@ bark-agent/
 │── config.py         # Configuration (credentials, settings)
 │── requirements.txt  # Dependencies
 
-⚙️ Installation
+## ⚙️ Installation
 1. Clone the repository
 git clone <your-repo-url>
 cd bark-agent
@@ -29,7 +29,7 @@ source .venv/bin/activate     # Mac/Linux
 .venv\Scripts\activate        # Windows
 3. Install dependencies
 pip install -r requirements.txt
-🔑 Configuration
+## 🔑 Configuration
 
 Update config.py with your credentials and settings:
 
