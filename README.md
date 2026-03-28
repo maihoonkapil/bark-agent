@@ -1,15 +1,16 @@
-🐶 Bark Agent – AI-Powered Lead Processing System
+## 🐶 Bark Agent – AI-Powered Lead Processing System
 
-An automated AI agent that logs into Bark, scrapes leads, processes them using an AI decision engine, and outputs structured insights for further action.
+# An automated AI agent that logs into Bark, scrapes leads, processes them using an AI decision engine, and outputs structured insights for further action.
 
-🚀 Features
+## 🚀 Features
 🔐 Automated login to Bark platform
 📥 Lead scraping (configurable limit)
 🧠 AI-based lead processing & scoring
 📊 Structured output using data models
 💾 JSON export with timestamped results
 ⚡ Async execution for efficiency
-📁 Project Structure
+
+## 📁 Project Structure
 bark-agent/
 │── agent.py          # Main entry point
 │── scraper.py        # Bark scraping logic
@@ -17,6 +18,7 @@ bark-agent/
 │── models.py         # Data models (LeadOutput)
 │── config.py         # Configuration (credentials, settings)
 │── requirements.txt  # Dependencies
+
 ⚙️ Installation
 1. Clone the repository
 git clone <your-repo-url>
